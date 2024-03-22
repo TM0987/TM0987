@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi! My name is Tej Mehta. I'm a freshman studying computer science, with a specialization in quantum information, at the University of Maryland<be>
+Hi! My name is Tej Mehta. I'm a freshman studying computer science, with a specialization in quantum information, at the University of Maryland<br>
 Feel free to reach me at tmehta11@umd.edu.<br>
 
 
