@@ -3,7 +3,7 @@
 -->
 
 # 💫 About Me:
-Hi! My name is Tej Mehta. I'm a junior studying computer science (quantum information specialization) at the University of Maryland.<br>
+Hi! My name is Tej Mehta. I'm a junior studying computer science and math at the University of Maryland.<br>
 Feel free to reach me at tmehta11@umd.edu.<br>
 
 
