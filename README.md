@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6E7681&center=true&vCenter=true&width=500&lines=Tej+Mehta;Masters+CS+%40+UMD;hi+lol" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=2000&color=6E7681&center=true&vCenter=true&width=500&lines=Tej+Mehta;Masters+CS+%40+UMD;hi+lol" alt="typing header" />
 
 </div>
 
